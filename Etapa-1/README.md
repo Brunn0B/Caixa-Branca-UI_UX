@@ -35,3 +35,10 @@ As variáveis nome e result poderiam ser declaradas dentro do método verificarU
 
 
 
+
+
+## Grafo de Fluxo de Controle
+
+Abaixo está o grafo de fluxo de controle para o método `verificarUsuario`:
+
+![Grafo de Fluxo de Controle](/ETAPA-3-GRAFO.jpeg)
